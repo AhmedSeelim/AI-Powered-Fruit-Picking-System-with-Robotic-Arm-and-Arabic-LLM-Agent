@@ -1,0 +1,2 @@
+# AI-Powered-Fruit-Picking-System-with-Robotic-Arm-and-Arabic-LLM-Agent
+This project showcases the development of an intelligent robotic system that integrates natural language processing, computer vision, and robotic arm control to automate fruit selection and picking. The system employs a comprehensive pipeline that spans user interaction, object detection, 3D spatial calculation, and robotic arm manipulation.
