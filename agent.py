@@ -8,7 +8,7 @@ import sys
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 if "GOOGLE_API_KEY" not in os.environ:
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyD5wDuk2saq90X2Tdvmby9bQ-XKtZwYm-U"
+    os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 import time
 from gtts import gTTS
 from IPython.display import Audio
